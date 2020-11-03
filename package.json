@@ -22,13 +22,7 @@
     "babel-core": "^6.26.3",
     "babel-loader": "^8.0.6",
     "browser-sync": "^2.26.12",
-    "core-js": "^3.4.2",
-    "gulp": "^4.0.2",
-    "gulp-clean-css": "^4.2.0",
-    "gulp-postcss": "^8.0.0",
-    "gulp-sass": "^4.0.2",
-    "webpack": "^4.41.2",
-    "webpack-stream": "^5.2.1"
+    "core-js": "^3.4.2"
   },
   "dependencies": {
     "cron": "^1.8.2",
@@ -36,7 +30,6 @@
     "gulp-pug": "^4.0.1",
     "node-cron": "^2.0.3",
     "node-fetch": "^2.6.0",
-    "node-telegram-bot-api": "0.50.0",
-    "pug": "^3.0.0"
+    "node-telegram-bot-api": "0.50.0"
   }
 }
